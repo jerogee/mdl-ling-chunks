@@ -3,7 +3,7 @@
 To estimate complexity for BNC sentences using a LZ77 estimator, currently on 10K BNC sentences:
 
 ```bash
-mdl-ling-chunks/src$ python est.py ../data/bnc_10K.txt ../data/bnc_10K_lz77.txt
+mdl-ling-chunks/src$ python est.py ../data/bnc_10K.txt ../data/bnc_10K_lz77_sentences.txt
 ```
 
 ## TODO
