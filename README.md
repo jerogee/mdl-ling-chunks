@@ -6,7 +6,7 @@ To estimate complexity for BNC sentences using a LZ77 estimator, currently on 10
 mdl-ling-chunks/src$ python est.py ../data/bnc_10K.txt ../data/bnc_10K_lz77.txt
 ```
 
-## Open tasks
+## Tasks
 
 - [x] Collext test data (English, BNC)
 - [ ] Collect suitable parallel data

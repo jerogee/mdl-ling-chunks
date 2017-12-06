@@ -1,0 +1,57 @@
+\documentclass[11pt,a4paper]{article}
+
+% Useful packages
+\usepackage[utf8]{inputenc}
+\usepackage{url}
+\usepackage[outer=5cm,inner=1in,top=1.5in,bottom=1.5in,marginparwidth=4cm]{geometry}
+\usepackage{graphicx,graphics,tabularx}
+\usepackage{booktabs}
+\usepackage{enumerate}
+\usepackage{chicago}
+\usepackage{mathtools}
+\usepackage{hyperref}
+
+% General
+\frenchspacing
+\sloppy
+
+% Annotations
+\newcommand{\correct}[1]{\marginpar{%
+\footnotesize\begin{tabular}[t]{@{}|p{0.9\marginparwidth}@{}}%
+\raggedright#1\end{tabular}}}
+
+\newcommand{\jim}[1]{\correct{\textsc{Jim:}\par\scriptsize #1}}
+\newcommand{\jeroen}[1]{\correct{\textsc{Jeroen:}\par\scriptsize #1}}
+\newcommand{\petar}[1]{\correct{\textsc{Petar:}\par\scriptsize #1}}
+
+\title{Working Notes}
+\author{}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Outline}
+
+\begin{enumerate}
+\item Build compressed versions of increasingly long strings from an appropriate corpus
+    \begin{itemize}
+    \item morpheme-by-morpheme
+    \item word-by-word
+    \item sentence-by-sentence
+    \end{itemize}
+\item Build reference strings (for comparisons)
+\item Create visual — time-series (lines) of length of sequence (X-axis) by compression ratio (Y-axis)
+\item Test for patterns, significant changes, flection points etc.
+\end{enumerate}
+
+\section{Corpora}
+
+The ideal input for this study would be parallel text. We have been using Europarl before, but the disadvantage is that the genre (political text) is not that common. OpenSubtitles would be a great candidate, but does not contains many more fragments than complete sentences. 
+
+\section{Kolmogorov complexity estimators}
+
+A wealth of estimators can be used, but the previously used Lempel-Ziv 77 algorithm is the most common lossless compression algorithm, and particularly the derivative Lempel–Ziv–Storer–Szymanski (LZSS) is a good candidate: lossless, straightforward to implement and interpret, and obtaining good compression rates. Alternative estimators can be tested, as to assure that conclusions drawn are not algorithm or implementation specific.
+
+\end{document}
