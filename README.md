@@ -6,7 +6,7 @@ To estimate complexity for BNC sentences using a LZ77 estimator, currently on 10
 mdl-ling-chunks/src$ python est.py ../data/bnc_10K.txt ../data/bnc_10K_lz77.txt
 ```
 
-## Tasks
+## TODO
 
 - [x] Build sentence-by-sentence strings
 - [x] ... with length by compression ratio data points
@@ -17,6 +17,8 @@ mdl-ling-chunks/src$ python est.py ../data/bnc_10K.txt ../data/bnc_10K_lz77.txt
 - [ ] Create length of sequence (X-axis) by compression ratio (Y-axis) vizualisations
 - [ ] Test for patterns, inflection points, etc.
 - [ ] Build random reference strings (for comparisons)
+
+- [ ] Update working notes (tex)
 
 - [x] Collect test data (English, BNC)
 - [ ] Collect suitable parallel data
