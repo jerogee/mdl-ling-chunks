@@ -1,0 +1,10 @@
+Explaining|VVG the|AT0 very|AV0 improbable|AJ0 
+We|PNP animals|NN2 are|VBB the|AT0 most|AV0 complicated|AJ0 things|NN2 in|PRP the|AT0 known|AJ0 universe|NN1 .|PUN 
+The|AT0 universe|NN1 that|CJT we|PNP know|VVB ,|PUN of|PRF course|NN1 ,|PUN is|VBZ a|AT0 tiny|AJ0 fragment|NN1 of|PRF the|AT0 actual|AJ0 universe|NN1 .|PUN 
+There|EX0 may|VM0 be|VBI yet|AV0 more|AV0 complicated|AJ0 objects|NN2 than|CJS us|PNP on|PRP other|AJ0 planets|NN2 ,|PUN and|CJC some|DT0 of|PRF them|PNP may|VM0 already|AV0 know|VVI about|PRP us|PNP .|PUN 
+But|CJC this|DT0 does|VDZ n't|XX0 alter|VVI the|AT0 point|NN1 that|CJT I|PNP want|VVB to|TO0 make|VVI .|PUN 
+Complicated|AJ0 things|NN2 ,|PUN everywhere|AV0 ,|PUN deserve|VVB a|AT0 very|AV0 special|AJ0 kind|NN1 of|PRF explanation|NN1 .|PUN 
+We|PNP want|VVB to|TO0 know|VVI how|AVQ they|PNP came|VVD into|PRP existence|NN1 and|CJC why|AVQ they|PNP are|VBB so|AV0 complicated|AJ0 .|PUN 
+The|AT0 explanation|NN1 ,|PUN as|CJS I|PNP shall|VM0 argue|VVI ,|PUN is|VBZ likely|AJ0 to|TO0 be|VBI broadly|AV0 the|AT0 same|DT0 for|PRP complicated|AJ0 things|NN2 everywhere|AV0 in|PRP the|AT0 universe|NN1 ;|PUN the|AT0 same|DT0 for|PRP us|PNP ,|PUN for|PRP chimpanzees|NN2 ,|PUN worms|NN2 ,|PUN oak|NN1 trees|NN2 and|CJC monsters|NN2 from|PRP outer|AJ0 space|NN1 .|PUN 
+On|PRP the|AT0 other|AJ0 hand|NN1 ,|PUN it|PNP will|VM0 not|XX0 be|VBI the|AT0 same|DT0 for|PRP what|DTQ I|PNP shall|VM0 call|VVI "|PUQ simple|AJ0 "|PUQ things|NN2 ,|PUN such|DT0 as|PRP rocks|NN2 ,|PUN clouds|NN2 ,|PUN rivers|NN2 ,|PUN galaxies|NN2 and|CJC quarks|NN2-VVZ .|PUN 
+These|DT0 are|VBB the|AT0 stuff|NN1 of|PRF physics|NN1 .|PUN 

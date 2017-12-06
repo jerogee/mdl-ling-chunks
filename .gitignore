@@ -1,0 +1,15 @@
+# TeX
+*.aux
+*.log
+*.bbl
+*.blg
+*.dvi
+*.out
+*.pdf
+
+# TMP
+*.swp
+
+# Python
+*.pyc
+__pycache__
